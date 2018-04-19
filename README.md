@@ -73,21 +73,21 @@ You can load any image or several images and you can enhance them one by one or 
 There are two images on the screen, 'Original Image' which is the original image(s) you open, and 'Cleaned Image' which is the image with all image enhancements applied. Both of the images may contain one or more images (only one image is visible). You can select the visible image with the 'First page', 'Former Page', 'Next Page', 'Last Page' commands on the toolbar or in the menu. You can also save both collection of images with the Save command in the File menu. The images can be zoomed in with the mouse scroll wheel or with the buttons in the top-right corner of the image boxes, or can be panned with holding down the left mouse button and dragging the mouse.
 
 ## Image Enhancement Options:
-• **Reset Image** : this command will reset the Cleaned Image to its original state.
-• **Apply To All Pages** option is on the Settings | Image1 tab. When checked all currently loaded images will be enhanced at the same time (batch processing).
-• **AUTOCLEAN** : this command contains several pre-defined image enhancements. You can select the preferred preset in the Settings | Image3 tab.
-• **Despeckle** : removes noise from the image. The width and the height of the filter in the Settings | Image2 determines the level of detail the enhancement will remove.
-• **Brighten** : makes the image brighter. The strength of the effect can be selected in Settings | Image1.
-• **Darken** : makes the image darker. The strength of the effect can be selected in Settings | Image1.
-• **Flip vertically or horizontally**.
-• **Contrast adjustment**. The strength of the effect can be selected in Settings | Image1.
-• **Sharpen** or the application of the Unsharp mask to make details more visible. The strength of the effect can be selected in Settings | Image1.
-• **Deskew** : this will make the text straight.
-• **Gamma correction** : this can make the image look lighter or darker. The strength (gamma) of the effect can be selected in Settings | Image2.
-• **Auto-crop** : this will remove the unnecessary space around the text. The color tolerance (what is considered as not necessary) and the margin in pixels which will not be removed can be selected in Settings | Image2.
-• **Remove H/V Lines** : this will remove horizontal and vertical lines from the image and will also transform the image to grayscale. The solidify factor in pixels of the effect can be selected in Settings | Image2. The solidify factor (the width of the effect around the lines) should not be chosen to high because then you will loose too much from the underlying text.
-• **Remove Lines Alfa**: this will remove angled lines from the image and will also transform the image to grayscale. The solidify factor in pixels (the width in pixels the lines will be widened while erasing the lines) and the alpha rotation degree can be chosen in Settings | Image2. Please note that the image will be enlarged in order to accommodate the extra space necessary because of the rotation!
-• **Rotate** : this will rotate the image with the angle selected in the Settings | Image1. Please note that the image will be enlarged in order to accommodate the extra space necessary because of the rotation!
+- **Reset Image** : this command will reset the Cleaned Image to its original state.
+- **Apply To All Pages** option is on the Settings | Image1 tab. When checked all currently loaded images will be enhanced at the same time (batch processing).
+- **AUTOCLEAN** : this command contains several pre-defined image enhancements. You can select the preferred preset in the Settings | Image3 tab.
+- **Despeckle** : removes noise from the image. The width and the height of the filter in the Settings | Image2 determines the level of detail the enhancement will remove.
+- **Brighten** : makes the image brighter. The strength of the effect can be selected in Settings | Image1.
+- **Darken** : makes the image darker. The strength of the effect can be selected in Settings | Image1.
+- **Flip vertically or horizontally**.
+- **Contrast adjustment**. The strength of the effect can be selected in Settings | Image1.
+- **Sharpen** or the application of the Unsharp mask to make details more visible. The strength of the effect can be selected in Settings | Image1.
+- **Deskew** : this will make the text straight.
+- **Gamma correction** : this can make the image look lighter or darker. The strength (gamma) of the effect can be selected in Settings | Image2.
+- **Auto-crop** : this will remove the unnecessary space around the text. The color tolerance (what is considered as not necessary) and the margin in pixels which will not be removed can be selected in Settings | Image2.
+- **Remove H/V Lines** : this will remove horizontal and vertical lines from the image and will also transform the image to grayscale. The solidify factor in pixels of the effect can be selected in Settings | Image2. The solidify factor (the width of the effect around the lines) should not be chosen to high because then you will loose too much from the underlying text.
+- **Remove Lines Alfa**: this will remove angled lines from the image and will also transform the image to grayscale. The solidify factor in pixels (the width in pixels the lines will be widened while erasing the lines) and the alpha rotation degree can be chosen in Settings | Image2. Please note that the image will be enlarged in order to accommodate the extra space necessary because of the rotation!
+- **Rotate** : this will rotate the image with the angle selected in the Settings | Image1. Please note that the image will be enlarged in order to accommodate the extra space necessary because of the rotation!
 
 # AI Text Synthesizer/Speaker
 The synthesizer can read the text present in the Normalized Text editor in several languages. You can ask the AI to recognize and then read the text on an image or you can also load, copy/paste or type text in the editor and listen through the computer speakers. You can select the languages/voices on the Sidebar's Speech tab. You can also install other languages/voices. You can operate the synthesizer from the Speech command center on the Sidebar's Speech tab.
