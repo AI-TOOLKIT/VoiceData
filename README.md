@@ -1,3 +1,7 @@
+
+> **Click on the top-right green 'Clone or download' button to download the software and the book in one archive!**
+>
+
 # VoiceData
 **VoiceData** is an **Automatic Speech Recognition (ASR)** data generator toolkit, Microsoft Windows 64bit compatible (Windows 7, 8 and 10).
 
