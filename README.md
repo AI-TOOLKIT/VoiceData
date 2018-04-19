@@ -18,7 +18,7 @@ VoiceData has features which makes it possible to completely **transfer the audi
 VoiceData has a special **multiprocessor/core support** which makes the toolkit much faster especially when processing several audio files or images at once in batch mode.
 
 # Text Normalization
-VoiceData text normalization is based on Sparrowhawk/Kestrel, the Google-internal TTS text normalization system reported in Ebden and Sproat (2014).
+VoiceData text normalization is based on Sparrowhawk/Kestrel, the Google-internal TTS text normalization system reported in Ebden and Sproat (2014). Copyright 2015 and onwards Google, Inc., Apache 2.0 http://www.apache.org/licenses/LICENSE-2.0, Sparrowhawk on GitHub: https://github.com/google/sparrowhawk
 
 The first step in ASR data generation is to normalize the input text. Normalization means that all non text elements (e.g. 1/1/2018 or 10.5kg) must be converted to text. This is a complex task because the normalization must use language dependent grammar definitions in order to be able to detect and normalize such elements automatically. You may also decide to provide the normalized text directly.
 
