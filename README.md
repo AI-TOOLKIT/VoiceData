@@ -1,5 +1,5 @@
 
-> **IMPORTANT: Click on the top-right green 'Clone or download' button to download the software and the book in one archive! The software and the book are FREE for non-commercial use!**
+> **DOWNLOAD link: [VoiceData & Book](https://) The software and the book are FREE for non-commercial use!**
 >
 
 # VoiceData
