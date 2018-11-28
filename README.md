@@ -1,5 +1,5 @@
 
-> **DOWNLOAD link: [VoiceData & Book](https://) The software and the book are FREE for non-commercial use!**
+> **DOWNLOAD link: [VoiceData & Book](https://github.com/AI-TOOLKIT/VoiceData/releases/download/v1.1/VOICEDATASetup.exe) The software and the book are FREE for non-commercial use!**
 >
 
 # VoiceData
@@ -16,6 +16,9 @@ VoiceData also includes a **built-in audio editor** which can not only be used t
 VoiceData has features which makes it possible to completely **transfer the audio recording from the base voice to any other types of voice**. For example you could change the pitch and the rate of the audio with the built-in audio editor and transfer an adult voice to a child voice.
 
 VoiceData has a special **multiprocessor/core support** which makes the toolkit much faster especially when processing several audio files or images at once in batch mode.
+
+> **DOWNLOAD link: [VoiceData & Book](https://github.com/AI-TOOLKIT/VoiceData/releases/download/v1.1/VOICEDATASetup.exe) The software and the book are FREE for non-commercial use!**
+>
 
 # Text Normalization
 VoiceData text normalization is based on Sparrowhawk/Kestrel, the Google-internal TTS text normalization system reported in Ebden and Sproat (2014). Copyright 2015 and onwards Google, Inc., Apache 2.0 http://www.apache.org/licenses/LICENSE-2.0, Sparrowhawk on GitHub: https://github.com/google/sparrowhawk
@@ -68,6 +71,9 @@ You can also choose the output file type as wav or mp3 while applying the above 
 
 The 'Convert To WAV Without Encoding (PCM)' command can be used to batch convert several audio files from one audio format to WAV PCM format without encoding. Several input audio formats are supported also depending on your system's configuration (installed encodings). The WAV PCM format without encoding is the audio format which is used by most of the AI-TOOLKIT software (VoiceData, VoiceBridge, etc.).
 
+> **DOWNLOAD link: [VoiceData & Book](https://github.com/AI-TOOLKIT/VoiceData/releases/download/v1.1/VOICEDATASetup.exe) The software and the book are FREE for non-commercial use!**
+>
+
 # AI Text Recognition
 You can load any image with text on it in a specific language and extract the text. The AI is trained to recognize text in images in several languages. You can select the language on the Settings | Text tab of the sidebar. The installation only provides English because of the size of the data files but you can download and install many other languages easily and for free.
 
@@ -107,6 +113,9 @@ The Screen capture feature on the Capture tab of the Sidebar can capture your co
 # Preparing a Collage of Images
 You can easily create a collage (matrix) of images from several open images. This kind of collage can be e.g. used to train the VisionAI AI engine.
 
+> **DOWNLOAD link: [VoiceData & Book](https://github.com/AI-TOOLKIT/VoiceData/releases/download/v1.1/VOICEDATASetup.exe) The software and the book are FREE for non-commercial use!**
+>
+
 # VoiceData UI
 The VoiceData UI is designed to make your work easier and intuitive. There is also a built-in Help in the right sidebar.
 
@@ -119,3 +128,6 @@ The Audio Editor:
 The Grammar Editor:
 
 ![Grammar Editor](https://3.bp.blogspot.com/-W_enR27rZrw/WtiBPusW5uI/AAAAAAAAA3I/OfC8K_Wfn1Q4Sc3oCoZfLBl-B8q7dUhiQCK4BGAYYCw/s1600/GrammarEditor.png)
+
+> **DOWNLOAD link: [VoiceData & Book](https://github.com/AI-TOOLKIT/VoiceData/releases/download/v1.1/VOICEDATASetup.exe) The software and the book are FREE for non-commercial use!**
+>
