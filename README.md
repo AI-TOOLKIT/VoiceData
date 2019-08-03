@@ -3,19 +3,19 @@
 >
 
 # VoiceData
-**VoiceData** is an **Automatic Speech Recognition (ASR)** data generator toolkit, Microsoft Windows 64bit compatible (Windows 7, 8 and 10).
+VoiceData can be used **for generating data for training Automatic Speech Recognition (ASR) models**. The generated data includes **both with the transcription synchronized audio (the input text is read by a machine trained very human sounding synthethized voice; male or female) and transcription files** for training ASR models in several languages by using any text you desire. Text can also be extracted from images e.g. imported from a scanner in several languages. You can scan a book or business papers with text and images. VoiceData has built-in scanner and text recognition support (trained machine learning models for text recognition in several languages). **There are a lot of languages and voices (female and male) available.**
+
+VoiceData also includes a **built-in audio editor** which can not only be used to edit, visualize and convert your audio files but also to **transform the voice recordings**. The audio editor can change the **sample rate, the number of channels, can suppress noise, can cancel echo, change the tempo, change the rate, change the pitch frequency** and it can also remove audio sections without human voice.
+
+VoiceData has features which makes it possible to completely **transfer the audio recording from the base voice to any other type of voice**. For example you could change the pitch and the rate of the audio with the built-in audio editor and transfer an adult voice to a child voice.
+
+VoiceData has a special multiprocessor/core support which makes the toolkit much faster especially when processing several audio files or images at once.
+
+**VoiceData** is Microsoft Windows 64bit compatible (Windows 7, 8 and 10).
 
 > IMPORTANT INFORMATION ABOUT THE REQUIRED SERIAL NUMBER: in case you do not have a serial number then register on the AI-TOOLKIT Helpdesk (see hereunder, please fill in your real name and e-mail) and get automatically the serial number (FREE for non-commercial purposes).
 > AI-TOOLKIT HELPDESK: **[AI-TOOLKIT HELPDESK FOR SERIAL NUMBER](https://aitoolkit.freshdesk.com/support/solutions/articles/26000016343)**
 >
-
-VoiceData can **automatically generate audio and transcription files for ASR in several languages** by only using text or even images e.g. imported from a scanner (you can scan a book or business papers with the text you desire). The voice recordings per sentence together with the aligned transcription text files can then be used to train an automatic speech recognition AI model.
-
-VoiceData also includes a **built-in audio editor** which can not only be used to edit, visualize and convert your audio files but also to **transform the voice recordings**. The audio editor can change the **sample rate, the number of channels, can suppress noise, can cancel echo, change the tempo, change the rate, change the pitch frequency** and it can also remove audio sections without human voice.
-
-VoiceData has features which makes it possible to completely **transfer the audio recording from the base voice to any other types of voice**. For example you could change the pitch and the rate of the audio with the built-in audio editor and transfer an adult voice to a child voice.
-
-VoiceData has a special **multiprocessor/core support** which makes the toolkit much faster especially when processing several audio files or images at once in batch mode.
 
 > **DOWNLOAD link: [VoiceData & Book](https://github.com/AI-TOOLKIT/VoiceData/releases/download/v1.1/VOICEDATASetup.exe) The software and the book are FREE for non-commercial use!**
 >
