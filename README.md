@@ -1,5 +1,5 @@
 
-> **DOWNLOAD link: [VoiceData & Book](https://github.com/AI-TOOLKIT/VoiceData/releases/download/v1.1/VOICEDATASetup.exe) The software and the book are FREE for non-commercial use!**
+> **DOWNLOAD link: [VoiceData](https://github.com/AI-TOOLKIT/VoiceData/releases/download/v2.0/VOICEDATASetup.exe) The software and the book are FREE for non-commercial use!**
 >
 
 # VoiceData
